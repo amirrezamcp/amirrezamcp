@@ -70,5 +70,5 @@ I'm a passionate **Backend Developer** specializing in **Laravel** and building 
 </p>
 
 <p align="center">
-  <i>✨ Code. Build. Innovate. ✨</i>
+  <i>✨ Codeing for Fun ✨</i>
 </p>
